@@ -1,0 +1,24 @@
+{
+  "vikingSeries": [
+    { "id": 501, "title": "Vikings", "imageUrl": "https://image.tmdb.org/t/p/w500/bQLH8798990TAr7YvC9el7OqR6nl.jpg", "description": "L'épopée de Ragnar Lothbrok." },
+    { "id": 502, "title": "The Last Kingdom", "imageUrl": "https://image.tmdb.org/t/p/w500/uY9L79fS06P9SthfS9S7SthfS9S.jpg", "description": "La lutte pour l'Angleterre." }
+  ],
+  "ottomanSeries": [
+    { "id": 504, "title": "Dirilis: Ertugrul", "imageUrl": "https://image.tmdb.org/t/p/w500/p9fujUn1vDS20oHDYpS9pZpDY9g.jpg", "description": "L'origine de l'Empire." }
+  ],
+  "latinoPassion": [
+    { "id": 601, "title": "Berlin (Espagne)", "imageUrl": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg" }
+  ],
+  "frenchCinema": [
+    { "id": 701, "title": "Monte-Cristo (2024)", "imageUrl": "https://image.tmdb.org/t/p/w500/7vscS6YV4p99X6fSno97as9m9uM.jpg" }
+  ],
+  "epicMovies": [
+    { "id": 507, "title": "300", "imageUrl": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg" }
+  ],
+  "trendingMovies": [
+    { "id": 1, "title": "The Witcher", "imageUrl": "https://image.tmdb.org/t/p/w500/7vscS6YV4p99X6fSno97as9m9uM.jpg" }
+  ],
+  "horrorWorld": [
+    { "id": 801, "title": "Talk to Me", "imageUrl": "https://image.tmdb.org/t/p/w500/w9kR8qbmQoTAr7YvC9el7OqR6nl.jpg" }
+  ]
+}
