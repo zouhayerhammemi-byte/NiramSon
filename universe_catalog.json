@@ -1,0 +1,8 @@
+{
+  "olympiaSport": [
+    { "id": 2001, "title": "Football Live", "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f3/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png" }
+  ],
+  "carthageCinema": [
+    { "id": 3001, "title": "Hannibal le Grand", "imageUrl": "https://image.tmdb.org/t/p/w500/3bhkrjSTWv4pM7p1I9STCc9asAR.jpg" }
+  ]
+}
