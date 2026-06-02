@@ -1,34 +1,58 @@
 {
   "trendingMovies": [
-    {
-      "id": 1,
-      "title": "The Witcher",
-      "imageUrl": "https://image.tmdb.org/t/p/w500/7vscS6YV4p99X6fSno97as9m9uM.jpg",
-      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
-    }
+    { "id": 1, "title": "The Witcher", "imageUrl": "https://image.tmdb.org/t/p/w500/7vscS6YV4p99X6fSno97as9m9uM.jpg", "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" },
+    { "id": 2, "title": "Gladiator II", "imageUrl": "https://image.tmdb.org/t/p/w500/v9ky9pZ986Sly6mP7mS9SSeS9Pj.jpg", "videoUrl": "" },
+    { "id": 3, "title": "Inception", "imageUrl": "https://image.tmdb.org/t/p/w500/9gk7Fn9sSAsS969O9oq6V0s7S3W.jpg", "videoUrl": "" },
+    { "id": 4, "title": "Interstellar", "imageUrl": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg", "videoUrl": "" }
+  ],
+  "horrorWorld": [
+    { "id": 801, "title": "Talk to Me", "imageUrl": "https://image.tmdb.org/t/p/w500/3Y7ubvY6S86S6mP7mS9SSeS9Pj.jpg", "videoUrl": "" },
+    { "id": 802, "title": "Smile 2", "imageUrl": "https://image.tmdb.org/t/p/w500/a0v6S86Sly6mP7mS9SSeS9Pj.jpg", "videoUrl": "" }
+  ],
+  "vikingSeries": [
+    { "id": 501, "title": "Vikings", "imageUrl": "https://image.tmdb.org/t/p/w500/bQLH8798990TAr7YvC9el7OqR6nl.jpg", "videoUrl": "" },
+    { "id": 502, "title": "The Last Kingdom", "imageUrl": "https://image.tmdb.org/t/p/w500/uY9L79fS06P9SthfS9S7SthfS9S.jpg", "videoUrl": "" }
+  ],
+  "ottomanSeries": [
+    { "id": 504, "title": "Dirilis: Ertugrul", "imageUrl": "https://image.tmdb.org/t/p/w500/p9fujUn1vDS20oHDYpS9pZpDY9g.jpg", "videoUrl": "" },
+    { "id": 505, "title": "Kurulus: Osman", "imageUrl": "https://image.tmdb.org/t/p/w500/q9kR8qbmQoTAr7YvC9el7OqR6nl.jpg", "videoUrl": "" }
+  ],
+  "latinoPassion": [
+    { "id": 601, "title": "Berlin (Espagne)", "imageUrl": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg", "videoUrl": "" },
+    { "id": 602, "title": "La Casa de Papel", "imageUrl": "https://image.tmdb.org/t/p/w500/re9S86Sly6mP7mS9SSeS9Pj.jpg", "videoUrl": "" }
+  ],
+  "frenchCinema": [
+    { "id": 701, "title": "Monte-Cristo (2024)", "imageUrl": "https://image.tmdb.org/t/p/w500/7vscS6YV4p99X6fSno97as9m9uM.jpg", "videoUrl": "" },
+    { "id": 702, "title": "Lupin", "imageUrl": "https://image.tmdb.org/t/p/w500/re9S86Sly6mP7mS9SSeS9Pj.jpg", "videoUrl": "" }
+  ],
+  "epicMovies": [
+    { "id": 507, "title": "300", "imageUrl": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg", "videoUrl": "" }
   ],
   "tunisianChannels": [
-    {
-      "id": 101,
-      "title": "Wataniya 1",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/4/4c/Logo_Wataniya_1.png",
-      "videoUrl": "https://rtshls.rtsh.tn/live/elwataniya1/playlist.m3u8"
-    }
+    { "id": 101, "title": "Wataniya 1", "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/4/4c/Logo_Wataniya_1.png", "videoUrl": "https://rtshls.rtsh.tn/live/elwataniya1/playlist.m3u8" },
+    { "id": 102, "title": "El Hiwar Ettounsi", "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/d/df/Logo_El_Hiwar_Ettounsi.png", "videoUrl": "" },
+    { "id": 103, "title": "Nessma TV", "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/4/43/Logo_Nessma.png", "videoUrl": "" },
+    { "id": 104, "title": "Attessia TV", "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/a/af/Logo_Attessia_TV.png", "videoUrl": "" },
+    { "id": 105, "title": "Al Insen", "imageUrl": "https://i.ibb.co/L5k6h6y/alinsen.png", "videoUrl": "" },
+    { "id": 106, "title": "Telvza TV", "imageUrl": "https://i.ibb.co/M7X0FhV/telvza.png", "videoUrl": "" }
   ],
   "sportChannels": [
-    {
-      "id": 111,
-      "title": "beIN Sports News",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BeIN_Sports_logo.svg/2560px-BeIN_Sports_logo.svg.png",
-      "videoUrl": "https://beinsports-france-news.free.fr/playlist.m3u8"
-    }
+    { "id": 111, "title": "beIN Sports News", "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BeIN_Sports_logo.svg/2560px-BeIN_Sports_logo.svg.png", "videoUrl": "https://beinsports-france-news.free.fr/playlist.m3u8" },
+    { "id": 112, "title": "beIN Sports 1", "imageUrl": "https://i.ibb.co/VqX0FhV/bein1.png", "videoUrl": "" },
+    { "id": 113, "title": "beIN Sports 2", "imageUrl": "https://i.ibb.co/VqX0FhV/bein2.png", "videoUrl": "" },
+    { "id": 114, "title": "Canal+ Sport", "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Canal%2B_Sport_2009.svg", "videoUrl": "" }
   ],
-  "horrorWorld": [],
-  "vikingSeries": [],
-  "ottomanSeries": [],
-  "latinoPassion": [],
-  "frenchCinema": [],
-  "epicMovies": [],
-  "arabicChannels": [],
-  "frenchChannels": []
+  "arabicChannels": [
+    { "id": 201, "title": "MBC 1", "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/MBC1_Logo.svg/1200px-MBC1_Logo.svg.png", "videoUrl": "" },
+    { "id": 202, "title": "MBC 2", "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/MBC2_logo.png", "videoUrl": "" },
+    { "id": 203, "title": "MBC 3", "imageUrl": "https://i.ibb.co/VqX0FhV/mbc3.png", "videoUrl": "" },
+    { "id": 204, "title": "Rotana Cinema", "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Rotana_Cinema_Logo.png/250px-Rotana_Cinema_Logo.png", "videoUrl": "" },
+    { "id": 205, "title": "Rotana Tarab", "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/67/Rotana_Tarab_Logo.png", "videoUrl": "" },
+    { "id": 206, "title": "Rotana Clip", "imageUrl": "https://i.ibb.co/VqX0FhV/rotanaclip.png", "videoUrl": "" }
+  ],
+  "frenchChannels": [
+    { "id": 301, "title": "TF1", "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/TF1_logo_2013.svg", "videoUrl": "" },
+    { "id": 302, "title": "M6", "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/M6_logo_2009.svg", "videoUrl": "" },
+    { "id": 303, "title": "France 2", "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/France_2_logo_2018.svg", "videoUrl": "" }
+  ]
 }
