@@ -1,1 +1,53 @@
-{ "trendingMovies": [ { "id": 1, "title": "Tears of Steel (Sci-Fi)", "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Tears_of_Steel_poster.jpg", "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4" }, { "id": 2, "title": "Elephant's Dream", "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Elephants_Dream_s7_prores.jpg", "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4" }, { "id": 3, "title": "Sintel (Action)", "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Sintel_poster.jpg", "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4" }, { "id": 4, "title": "Big Buck Bunny (Animation)", "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Big_Buck_Bunny_Figure.png", "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" } ], "tunisianChannels": [], "sportChannels": [], "frenchChannels": [], "arabicChannels": [], "horrorWorld": [], "vikingSeries": [], "ottomanSeries": [], "latinoPassion": [], "frenchCinema": [], "epicMovies": [] }
+{
+  "trendingMovies": [
+    {
+      "id": 1,
+      "title": "Tears of Steel (Sci-Fi)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Tears_of_Steel_poster.jpg",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+    },
+    {
+      "id": 2,
+      "title": "Elephant's Dream",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Elephants_Dream_s7_prores.jpg",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+      "id": 3,
+      "title": "Sintel (Action)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Sintel_poster.jpg",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+    },
+    {
+      "id": 4,
+      "title": "Big Buck Bunny (4K)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Big_Buck_Bunny_Figure.png",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    }
+  ],
+  "tunisianChannels": [
+    {
+      "id": 101,
+      "title": "Wataniya 1",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/4/4c/Logo_Wataniya_1.png",
+      "videoUrl": "https://rtshls.rtsh.tn/live/elwataniya1/playlist.m3u8"
+    }
+  ],
+  "frenchChannels": [
+    {
+      "id": 301,
+      "title": "France 24",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/France_24_logo.svg",
+      "videoUrl": "https://static.france24.com/live/f24_fr.video/playlist.m3u8"
+    }
+  ],
+  "arabicChannels": [
+    {
+      "id": 201,
+      "title": "Al Jazeera",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Al_Jazeera_Eng_logo.svg/1200px-Al_Jazeera_Eng_logo.svg.png",
+      "videoUrl": "https://live-hls-web-aje.akamaized.net/05/index.m3u8"
+    }
+  ],
+  "sportChannels": [], "horrorWorld": [], "vikingSeries": [], "ottomanSeries": [], "latinoPassion": [], "frenchCinema": [], "epicMovies": []
+}
