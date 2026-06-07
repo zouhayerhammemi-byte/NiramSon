@@ -2,15 +2,15 @@
   "trendingMovies": [
     {
       "id": 1,
-      "title": "TEST : Big Buck Bunny",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Big_Buck_Bunny_Figure.png",
-      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+      "title": "The Witcher",
+      "imageUrl": "https://image.tmdb.org/t/p/w500/7vscS6YV4p99X6fSno97as9m9uM.jpg",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
     },
     {
       "id": 2,
-      "title": "TEST : Sintel",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Sintel_poster.jpg",
-      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+      "title": "Gladiator II",
+      "imageUrl": "https://image.tmdb.org/t/p/w500/v9ky9pZ986Sly6mP7mS9SSeS9Pj.jpg",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
     }
   ],
   "tunisianChannels": [
@@ -29,14 +29,7 @@
       "videoUrl": "https://static.france24.com/live/f24_fr.video/playlist.m3u8"
     }
   ],
-  "arabicChannels": [
-    {
-      "id": 201,
-      "title": "Al Jazeera",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Al_Jazeera_Eng_logo.svg/1200px-Al_Jazeera_Eng_logo.svg.png",
-      "videoUrl": "https://live-hls-web-aje.akamaized.net/05/index.m3u8"
-    }
-  ],
+  "arabicChannels": [],
   "sportChannels": [],
   "horrorWorld": [],
   "vikingSeries": [],
