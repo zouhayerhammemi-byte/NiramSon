@@ -37,6 +37,23 @@
       "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
       "year": "2024",
       "rating": "4.7"
+    },
+    { 
+        "carthageCinema": [
+    {
+      "id": 3,
+      "title": "Carthage Expérience",
+      "imageUrl": "https://images.unsplash.com/photo-1485846234645-a62644f84728?q=80&w=800",
+      "description": "Découvrez les richesses du cinéma de Carthage.",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+    },
+    {
+      "id": 10,
+      "title": "Sintel (Long métrage)",
+      "imageUrl": "https://durian.blender.org/wp-content/uploads/2010/05/sintel_poster_sm.jpg",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+      "description": "Un film d'animation épique complet."
     }
+  ]
   ]
 }
