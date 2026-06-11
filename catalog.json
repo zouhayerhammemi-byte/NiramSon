@@ -1,1 +1,11 @@
-{ "movies": [ { "id": 1, "title": "TEST DE SURVIE", "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_Buck_Bunny_Figure.png/400px-Big_Buck_Bunny_Figure.png", "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4" } ], "series": [] }
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "TEST DE SURVIE",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_Buck_Bunny_Figure.png/400px-Big_Buck_Bunny_Figure.png",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+    }
+  ],
+  "series": []
+}
