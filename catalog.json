@@ -1,1 +1,18 @@
-{ "movies": [ { "id": 1, "title": "Tears of Steel", "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tears_of_Steel_poster.jpg/400px-Tears_of_Steel_poster.jpg", "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4" } ], "series": [ { "id": 101, "title": "The Witcher - Saison 1", "imageUrl": "https://image.tmdb.org/t/p/w500/7vscS6YV4p99X6fSno97as9m9uM.jpg", "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" }, { "id": 102, "title": "Viking - Saison 1", "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mercury_Project_Logo.jpg/400px-Mercury_Project_Logo.jpg", "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" } ] }
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "TEST CONNEXION (Lapin)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_Buck_Bunny_Figure.png/400px-Big_Buck_Bunny_Figure.png",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+    }
+  ],
+  "series": [
+    {
+      "id": 101,
+      "title": "TEST SERIE (Sintel)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Sintel_poster.jpg/400px-Sintel_poster.jpg",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+    }
+  ]
+}
