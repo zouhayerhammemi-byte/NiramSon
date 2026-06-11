@@ -2,17 +2,29 @@
   "movies": [
     {
       "id": 1,
-      "title": "TEST CONNEXION (Lapin)",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_Buck_Bunny_Figure.png/400px-Big_Buck_Bunny_Figure.png",
-      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+      "title": "Gladiator II (Action)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tears_of_Steel_poster.jpg/400px-Tears_of_Steel_poster.jpg",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+    },
+    {
+      "id": 2,
+      "title": "Interstellar (Sci-Fi)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Sintel_poster.jpg/400px-Sintel_poster.jpg",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
     }
   ],
   "series": [
     {
       "id": 101,
-      "title": "TEST SERIE (Sintel)",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Sintel_poster.jpg/400px-Sintel_poster.jpg",
-      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+      "title": "The Witcher - Saison 1",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_Buck_Bunny_Figure.png/400px-Big_Buck_Bunny_Figure.png",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+    },
+    {
+      "id": 102,
+      "title": "Vikings - Episode 1",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Elephants_Dream_s7_prores.jpg/400px-Elephants_Dream_s7_prores.jpg",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     }
   ]
 }
